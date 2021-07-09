@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand img{
+    height: 3em;
+    width: 8em;
+}
+
+.caro-btn {
+    border: none;
+    background: transparent;
+    color: black;
+}
+.caro-btn:hover{
+    color: black;
+}
+.cat-img img{
+    height: 20em;
+    width: 20em;
+}
